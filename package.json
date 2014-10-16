@@ -1,0 +1,19 @@
+{
+  "name": "http-download",
+  "version": "0.0.1",
+  "description": "Downloads pieces of a file to a piece store from an http source. Created for use in a bit torrent client.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miketamis/http-download.git"
+  },
+  "author": "Mike Tamis (Saspiron)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miketamis/http-download/issues"
+  },
+  "homepage": "https://github.com/miketamis/http-download"
+}
